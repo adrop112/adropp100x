@@ -1,2 +1,2 @@
 # adropp100x
-100x
+tea.yaml
